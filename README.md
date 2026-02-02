@@ -1,0 +1,1 @@
+This is a final project, submitted for a grade in a data science course. Subsequent coursework has been done since towards completion of a data science certificate, but the sole authorship of this project (as opposed to collaborative projects in more advanced coursework) may be helpful.
